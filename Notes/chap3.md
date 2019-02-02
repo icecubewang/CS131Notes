@@ -1,5 +1,7 @@
 # Where Syntax Meets Semantics
 
+See [here](http://www.cs.ucc.ie/~dgb/courses/toc/handout8.pdf) for some great slides on BNF.
+
 ## Definitions ✏️ 
 
 - *Grammar* - A set of rules for constructing parse trees
