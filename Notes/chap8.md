@@ -88,3 +88,8 @@ char max2 = max('c', 'd');
 ### Subtype Polymorphism 🎸 🐍
 
 Remember that a subtype is a *subset* of values, but a *superset* of operations. It follows, then, that any function that expects one type can also work on any subtypes of that type (i.e. any function that expects just an `AmazingMusician` object can also work on a `TaylorSwift` object).
+
+Also note that there is a distinction within polymorphism:
+
+- **Ad-hoc** polymorphism is a function/operator that supports more than one, but a finite number of types
+- **Universal** polymorphism supports infinitely many types
