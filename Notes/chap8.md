@@ -92,4 +92,8 @@ Remember that a subtype is a *subset* of values, but a *superset* of operations.
 Also note that there is a distinction within polymorphism:
 
 - **Ad-hoc** polymorphism is a function/operator that supports more than one, but a finite number of types
+  - Overloading
+  - Type coercion
 - **Universal** polymorphism supports infinitely many types
+  - Parametric polymorphism
+  - Subtype polymorphism
